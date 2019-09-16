@@ -20,6 +20,13 @@ Before you start, open Vicon Nexus and use time-bar trial clipping to reduce the
 
 6. Choose the location at which to save your EMG report.
 
+## Benefits of EMG2PDF
+* Small and functional graphical user interface so that anyone can use it
+* Allows an arbitrary number of channels to be plotted at once (only for one side at a time, I'm afraid!)
+* Allows channels to be renamed
+* Allows easy scaling of axes
+* Quick to use and can report multiple trials at once!
+
 ## Future work
 The following are potential future developments:-
 * Remove the reliance on the proprietary ViconNexus for opening C3D files.
