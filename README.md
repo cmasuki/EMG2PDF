@@ -1,5 +1,5 @@
 # EMG2PDF
-This is a simple Python script to plot EMG data from motion analysis to a PDF. It's just one file so you can get started using it straight away!
+This is a simple Python script to plot EMG data from motion analysis to a PDF. It may not be pretty, but it works! It's just one file so you can get started using it straight away!
 
 ## Using EMG2PDF
 This software has been validated for research use only. If you want to use it for medical purposes, you are responsible for verifying that it works as intended. If you do find a bug or make an improvement, please consider [contributing](https://github.com/cmasuki/EMG2PDF/compare).
