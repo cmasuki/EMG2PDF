@@ -34,3 +34,9 @@ The following are potential future developments:-
 * (Optional) Automatic axis scaling
 
 Any help would be very welcome.
+
+_The initial user interface allows channels to be chosen and renamed (as below)._
+![The front screen](./Frontscreen.PNG)
+
+_Each trial has its own screen to check and resize plots._
+![EMG view](./Plotscreen.PNG)
